@@ -21,3 +21,15 @@ git add .
 git commit -m "first commit"
 git push origin new-branch
 ```
+
+## Hello World App - your first react app
+- Installing node.js - https://nodejs.org/en/
+- What is npm? 
+- Creating the react app - https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+```console    
+npx create-react-app hello-world-app
+```
+- App walkthrough
+- Making it say "Hello, World!"
+- Functions / Classes
+- Importing components
