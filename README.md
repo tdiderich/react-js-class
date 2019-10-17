@@ -43,3 +43,5 @@ npx create-react-app hello-world-app
 - Add a new component called AboutMe with your name and some information about you + use it in your AppCustom.js
     - HINT: this is the same flow as our HelloWord component
     - BONUS: use new HTML tags other than header and list to get a better feel for them
+
+### Final code: https://github.com/tdiderich/react-js-class/tree/hello-world-app
