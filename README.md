@@ -1,6 +1,6 @@
 # Building and Deploying a ReactJS Web App with React-Bootstrap and AWS Amplify
 
-## Getting you environment setup
+## Getting your environment setup
 - Visual Studio Download: https://code.visualstudio.com
     - Cost: free
     - Useage: editing the code 
