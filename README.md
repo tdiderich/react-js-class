@@ -44,4 +44,4 @@ npx create-react-app hello-world-app
     - HINT: this is the same flow as our HelloWord component
     - BONUS: use new HTML tags other than header and list to get a better feel for them
 
-### Final code: https://github.com/tdiderich/react-js-class/tree/hello-world-app
+_Final code:_ https://github.com/tdiderich/react-js-class/tree/hello-world-app
