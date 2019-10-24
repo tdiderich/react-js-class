@@ -91,8 +91,6 @@ _Final code:_ https://github.com/tdiderich/react-js-class/tree/hello-world-app
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/stock-data-app
 
-# Building and Deploying a ReactJS Web App with React-Bootstrap and AWS Amplify
-
 ## Startup Landing Page - Making it Look Good
 - Create new startup-landing-page app: `npx create-react-app startup-landing-page`
 - Add React-Bootstrap
