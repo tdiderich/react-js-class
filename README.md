@@ -1,6 +1,6 @@
 # Building and Deploying a ReactJS Web App with React-Bootstrap and AWS Amplify
 
-## Getting your environment setup
+## Environment Setup
 - Visual Studio Download: https://code.visualstudio.com
     - Cost: free
     - Useage: editing the code 
@@ -22,7 +22,7 @@ git commit -m "first commit"
 git push origin new-branch
 ```
 
-## Hello World App - your first react app
+## Hello World App - Your First React App
 - Installing node.js - https://nodejs.org/en/
 - What is npm? 
 - Creating the react app - https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
@@ -46,7 +46,7 @@ npx create-react-app hello-world-app
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/hello-world-app
 
-## Stock Data App - deeper into React
+## Stock Data App - Deeper Into React
 - Classes and Props
     - Create a Welcome Component w/ Name Prop
     - Docs: https://reactjs.org/docs/components-and-props.html
