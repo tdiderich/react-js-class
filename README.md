@@ -1,6 +1,6 @@
 # Building and Deploying a ReactJS Web App with React-Bootstrap and AWS Amplify
 
-## Getting your environment setup
+## Environment Setup
 - Visual Studio Download: https://code.visualstudio.com
     - Cost: free
     - Useage: editing the code 
@@ -22,7 +22,7 @@ git commit -m "first commit"
 git push origin new-branch
 ```
 
-## Hello World App - your first react app
+## Hello World App - Your First React App
 - Installing node.js - https://nodejs.org/en/
 - What is npm? 
 - Creating the react app - https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
@@ -46,7 +46,7 @@ npx create-react-app hello-world-app
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/hello-world-app
 
-## Stock Data App - deeper into React
+## Stock Data App - Deeper Into React
 - Classes and Props
     - Create a Welcome Component w/ Name Prop
     - Docs: https://reactjs.org/docs/components-and-props.html
@@ -137,6 +137,7 @@ _Final code:_ https://github.com/tdiderich/react-js-class/tree/stock-data-app
 
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/startup-landing-page
+<<<<<<< HEAD
 
 ## Workout Generator App - Bringing It All Together
 - Setup your app
@@ -171,3 +172,5 @@ _Final code:_ https://github.com/tdiderich/react-js-class/tree/startup-landing-p
     - More on Authentication, Lambda Functions, APIs, and more with Amplify and React: https://github.com/dabit3/aws-amplify-workshop-react
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/workout-generator-app
+=======
+>>>>>>> 0120406c6ce07b5e5f5b9b67388706f70474de6f
