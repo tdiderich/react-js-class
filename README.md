@@ -137,7 +137,6 @@ _Final code:_ https://github.com/tdiderich/react-js-class/tree/stock-data-app
 
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/startup-landing-page
-<<<<<<< HEAD
 
 ## Workout Generator App - Bringing It All Together
 - Setup your app
@@ -172,5 +171,3 @@ _Final code:_ https://github.com/tdiderich/react-js-class/tree/startup-landing-p
     - More on Authentication, Lambda Functions, APIs, and more with Amplify and React: https://github.com/dabit3/aws-amplify-workshop-react
 
 _Final code:_ https://github.com/tdiderich/react-js-class/tree/workout-generator-app
-=======
->>>>>>> 0120406c6ce07b5e5f5b9b67388706f70474de6f
