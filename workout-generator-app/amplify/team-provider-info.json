@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "workoutgeneratorapp-prod-20191024193623-authRole",
+            "UnauthRoleArn": "arn:aws:iam::076047581434:role/workoutgeneratorapp-prod-20191024193623-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::076047581434:role/workoutgeneratorapp-prod-20191024193623-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "workoutgeneratorapp-prod-20191024193623-deployment",
+            "UnauthRoleName": "workoutgeneratorapp-prod-20191024193623-unauthRole",
+            "StackName": "workoutgeneratorapp-prod-20191024193623",
+            "StackId": "arn:aws:cloudformation:us-east-1:076047581434:stack/workoutgeneratorapp-prod-20191024193623/790be580-f6bf-11e9-a7f0-0a8540e42a70"
+        }
+    }
+}
